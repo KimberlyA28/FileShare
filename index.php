@@ -101,7 +101,7 @@ if (isset($mensaje)) {
 <body>
     <h1>Compartir archivos <sup class="beta">BETA</sup></h1>
     <div class="content">
-   <h3>Sube tus file y comparte este enlace temporal: 
+   <h3>Sube tus archivos y comparte este enlace temporal: 
         <span>elienekimberly.digital/<?php echo htmlspecialchars($carpetaNombre); ?></span>
     </h3>
         <div class="container">
